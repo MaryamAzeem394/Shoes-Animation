@@ -1,2 +1,2 @@
-# JavaScript-Shoes-Animation-
+#Shoes-Animation-
 # Practice Website Project
